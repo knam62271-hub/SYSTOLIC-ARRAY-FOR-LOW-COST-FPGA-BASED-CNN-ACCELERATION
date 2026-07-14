@@ -35,10 +35,7 @@
 5. [CONCLUSION AND FUTURE WORK](#5-conclusion-and-future-work)
    - 5.1. [Conclusion](#51-conclusion)
    - 5.2. [Future Work](#52-future-work)
-6. [REFERENCES](#references)
-
 ---
-
 ## 1. INTRODUCTION
 
 In recent years, Convolutional Neural Networks (CNNs) have become the core foundation of many artificial intelligence applications such as computer vision, speech recognition, and natural language processing. However, the massive computational workload of CNNs - mainly matrix multiplications and convolutions - requires dedicated hardware to achieve high performance at a reasonable energy cost.
@@ -274,10 +271,3 @@ This project presented a theoretical overview of the Systolic Array architecture
 
 ---
 
-## REFERENCES
-
-[1] Frequency Improvement of Systolic Array-Based CNNs on FPGAs.
-
-[2] High-Frequency Systolic Array-Based Transformer Accelerator.
-
-[3] Systolic_CNN: An OpenCL-defined Scalable Run-time-flexible Architecture.
